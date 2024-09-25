@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tatsruh/dz-incubator.git/static/css/main.073c9b0a.css",
-    "main.js": "/tatsruh/dz-incubator.git/static/js/main.d662dc83.js",
-    "static/js/787.177e23c2.chunk.js": "/tatsruh/dz-incubator.git/static/js/787.177e23c2.chunk.js",
-    "index.html": "/tatsruh/dz-incubator.git/index.html",
-    "main.073c9b0a.css.map": "/tatsruh/dz-incubator.git/static/css/main.073c9b0a.css.map",
-    "main.d662dc83.js.map": "/tatsruh/dz-incubator.git/static/js/main.d662dc83.js.map",
-    "787.177e23c2.chunk.js.map": "/tatsruh/dz-incubator.git/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/tatsruh/dz-incubator/static/css/main.073c9b0a.css",
+    "main.js": "/tatsruh/dz-incubator/static/js/main.7957aec3.js",
+    "static/js/787.177e23c2.chunk.js": "/tatsruh/dz-incubator/static/js/787.177e23c2.chunk.js",
+    "index.html": "/tatsruh/dz-incubator/index.html",
+    "main.073c9b0a.css.map": "/tatsruh/dz-incubator/static/css/main.073c9b0a.css.map",
+    "main.7957aec3.js.map": "/tatsruh/dz-incubator/static/js/main.7957aec3.js.map",
+    "787.177e23c2.chunk.js.map": "/tatsruh/dz-incubator/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d662dc83.js"
+    "static/js/main.7957aec3.js"
   ]
 }
