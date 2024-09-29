@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dz-incubator.git/static/css/main.073c9b0a.css",
-    "main.js": "/dz-incubator.git/static/js/main.accd2cdb.js",
-    "static/js/787.177e23c2.chunk.js": "/dz-incubator.git/static/js/787.177e23c2.chunk.js",
-    "index.html": "/dz-incubator.git/index.html",
-    "main.073c9b0a.css.map": "/dz-incubator.git/static/css/main.073c9b0a.css.map",
-    "main.accd2cdb.js.map": "/dz-incubator.git/static/js/main.accd2cdb.js.map",
-    "787.177e23c2.chunk.js.map": "/dz-incubator.git/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/dz-incubator/static/css/main.073c9b0a.css",
+    "main.js": "/dz-incubator/static/js/main.7bf2d4e5.js",
+    "static/js/787.177e23c2.chunk.js": "/dz-incubator/static/js/787.177e23c2.chunk.js",
+    "index.html": "/dz-incubator/index.html",
+    "main.073c9b0a.css.map": "/dz-incubator/static/css/main.073c9b0a.css.map",
+    "main.7bf2d4e5.js.map": "/dz-incubator/static/js/main.7bf2d4e5.js.map",
+    "787.177e23c2.chunk.js.map": "/dz-incubator/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.accd2cdb.js"
+    "static/js/main.7bf2d4e5.js"
   ]
 }
